@@ -1,0 +1,24 @@
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\bin\Debug\net7.0\ITI.DAL.deps.json
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\bin\Debug\net7.0\ITI.DAL.dll
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\bin\Debug\net7.0\ITI.DAL.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.csproj.AssemblyReference.cache
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.AssemblyInfoInputs.cache
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.AssemblyInfo.cs
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.csproj.CoreCompileInputs.cache
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.dll
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\refint\ITI.DAL.dll
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\ITI.DAL\obj\Debug\net7.0\ref\ITI.DAL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\bin\Debug\net7.0\ITI.DAL.deps.json
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\bin\Debug\net7.0\ITI.DAL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\bin\Debug\net7.0\ITI.DAL.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.csproj.AssemblyReference.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.AssemblyInfoInputs.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.AssemblyInfo.cs
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\refint\ITI.DAL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\ITI.DAL.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\ITI.DAL\obj\Debug\net7.0\ref\ITI.DAL.dll

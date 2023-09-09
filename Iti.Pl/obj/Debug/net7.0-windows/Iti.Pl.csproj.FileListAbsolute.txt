@@ -1,0 +1,90 @@
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Pl.exe
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Pl.deps.json
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Pl.runtimeconfig.json
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Pl.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Pl.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.csproj.AssemblyReference.cache
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.csproj.GenerateResource.cache
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.AssemblyInfoInputs.cache
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.AssemblyInfo.cs
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.csproj.CoreCompileInputs.cache
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\refint\Iti.Pl.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.genruntimeconfig.cache
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\ref\Iti.Pl.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Azure.Core.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Azure.Identity.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\System.Memory.Data.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Bll.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\ITI.DAL.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Bll.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\bin\Debug\net7.0-windows\ITI.DAL.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.csproj.CopyComplete
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.TopicForm.resources
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Iti.PL.exe
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Iti.PL.deps.json
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Iti.PL.runtimeconfig.json
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Iti.PL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Iti.PL.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Bll.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\ITI.DAL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\Iti.Bll.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\bin\Debug\net7.0-windows\ITI.DAL.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.csproj.AssemblyReference.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.Pl.TopicForm.resources
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.csproj.GenerateResource.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.AssemblyInfoInputs.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.AssemblyInfo.cs
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.csproj.CoreCompileInputs.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.csproj.CopyComplete
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\refint\Iti.PL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\Iti.PL.genruntimeconfig.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Pl\obj\Debug\net7.0-windows\ref\Iti.PL.dll

@@ -1,0 +1,30 @@
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.csproj.AssemblyReference.cache
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.AssemblyInfoInputs.cache
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.AssemblyInfo.cs
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.csproj.CoreCompileInputs.cache
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\bin\Debug\net7.0\Iti.Bll.deps.json
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\bin\Debug\net7.0\Iti.Bll.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\bin\Debug\net7.0\Iti.Bll.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\bin\Debug\net7.0\ITI.DAL.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\bin\Debug\net7.0\ITI.DAL.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.csproj.CopyComplete
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\refint\Iti.Bll.dll
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.pdb
+G:\iti monofia\ADO.net\Assignement\Day2\Iti.Bll\obj\Debug\net7.0\ref\Iti.Bll.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\bin\Debug\net7.0\Iti.Bll.deps.json
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\bin\Debug\net7.0\Iti.Bll.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\bin\Debug\net7.0\Iti.Bll.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\bin\Debug\net7.0\ITI.DAL.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\bin\Debug\net7.0\ITI.DAL.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.csproj.AssemblyReference.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.AssemblyInfoInputs.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.AssemblyInfo.cs
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.csproj.CopyComplete
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\refint\Iti.Bll.dll
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\Iti.Bll.pdb
+C:\Users\Tweety\Downloads\Mohamed Elsayed Mohamed Ellithy Day 2\Iti.Bll\obj\Debug\net7.0\ref\Iti.Bll.dll
